@@ -67,7 +67,7 @@ print("RMSE : ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
 ## DATASET:
 ![image](https://github.com/user-attachments/assets/8d4108dd-134e-40c1-8e07-774b623ea581)
 ## Y PREDICTED:
